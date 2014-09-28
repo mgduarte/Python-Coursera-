@@ -106,6 +106,8 @@ rpsls("Spock")
 rpsls("paper")
 rpsls("lizard")
 rpsls("scissors")
-
+#unsure how computer vs. player determines winner. 
+#Rewatched video 3 times, but still unsure.  
+#Reversed my logic in thinking and sems to work, but unsure of why?
 # always remember to check your completed program against the grading rubric
 
